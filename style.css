@@ -1,0 +1,22 @@
+body{
+ 
+  background-color: rgb(255, 214, 11);
+  overflow: hidden;
+
+}
+
+h1{
+
+text-align: center;
+  color: #000000;
+  font-size: 3.5em;
+}
+
+.poster{
+
+  background-image: url("/images/pic1.png");
+  background-repeat: no-repeat;
+  background-position:center;
+  padding: 350px 100px;
+
+}
