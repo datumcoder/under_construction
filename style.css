@@ -1,6 +1,6 @@
 body{
  
-  background-color: rgb(255, 214, 11);
+  background-color: rgba(253, 211, 0, 0.705);
   overflow: hidden;
 
 }
@@ -20,4 +20,3 @@ text-align: center;
   padding: 350px 100px;
 
 }
-
